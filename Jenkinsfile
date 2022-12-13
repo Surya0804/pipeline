@@ -14,7 +14,7 @@ pipeline {
         }  
         stage('c') {
             steps {
-                echo 'Hello c'
+                echo 'Hello surya'
             }
         }
     }
